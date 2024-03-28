@@ -1,3 +1,5 @@
+
+
 # HMO
 
 description:
@@ -41,3 +43,11 @@ react.js
 
 
 ![AddCoronaAndVaccine](https://github.com/SaraLerer/Hadasim/assets/145717469/5ddbc543-3290-4fc8-948f-6886a86bd14c)
+
+
+![graph](https://github.com/SaraLerer/Hadasim/assets/145717469/4948c9d6-6801-4296-9d26-2cea938ed33d)
+
+
+![detailsPlusCorona](https://github.com/SaraLerer/Hadasim/assets/145717469/7a32c5dc-5629-4c4f-92b1-67d3d85eb56b)
+
+
