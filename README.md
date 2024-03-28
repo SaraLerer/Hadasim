@@ -15,8 +15,8 @@ spring-backend has the following endpoints.
 react-frontend uses MUI React as a CSS style framework.
 
 # external dependencies
-h2 db
-java springboot
-spring-boot-starter-validation
+h2 db</br>
+java springboot</br>
+spring-boot-starter-validation</br>
 react.js
 
